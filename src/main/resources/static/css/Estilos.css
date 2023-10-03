@@ -1,0 +1,44 @@
+#barraLateral {
+    position: absolute;
+    height: 81%;
+    top: 12%;
+    left: 0;
+    width: 20%;
+    background-color: #cccccc;
+    padding: 10px;
+    text-align: center;
+}
+
+#contenido {
+    position: absolute;
+    height: 81%;
+    top: 12%;
+    left: 20%;
+    width: 80%;
+    background-color: snow;
+    padding: 10px;
+    text-align: center;
+}
+
+#contenidoIndex {
+    position: absolute;
+    height: 81%;
+    top: 12%;
+    left: 0%;
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+
+#piePagina {
+    position: absolute;
+    height: 7%;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #0033cc;
+    text-align: center;
+    padding-top: 25px;
+    color: #ff9933;
+}
+
